@@ -1,2 +1,1 @@
-# CalisanHesaplama
- 
+Yarı zamanlı olarak çalışılan bir iş yerinde, iş takibini yapabilmek için yaptığım c# form app'i 
